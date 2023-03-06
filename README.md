@@ -1,3 +1,7 @@
+## 说两句
+Dr.COM 校园网使用，
+<br><a href="https://bejix.cn/archives/140/">Dr.COM 校园网自动认证(Openwrt)</a><br>
+<br><a href="https://bejix.cn/archives/138/">OpenWrt 更新MAC地址脚本</a><br>
 
 ## 一个云编译UA2F固件的项目
 ###### 已经正常工作了哦，在使用中有任何问题，欢迎反馈给我
