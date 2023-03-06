@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build Main immortalwrt
+name: Build MiRoute-AC2100 For immortalwrt
 
 on:
   repository_dispatch:
